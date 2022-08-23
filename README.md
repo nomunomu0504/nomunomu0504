@@ -25,3 +25,8 @@
 
 # Github Streaks
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nomunomu0504&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="nomunomu0504" /></p>
+
+# Donations
+<a href="https://buy.stripe.com/3cseWH3MresPa5y288">
+  <img src="https://raw.githubusercontent.com/nomunomu0504/nomunomu0504/main/donation.png" height=60 />
+</a>
